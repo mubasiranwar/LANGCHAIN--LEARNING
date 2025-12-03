@@ -72,7 +72,7 @@ LANGCHAIN/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com//.git
+git clone [https://github.com//.git](https://github.com/mubasiranwar/LANGCHIAN--LEARNING.git)
 cd 
 ```
 
